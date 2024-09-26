@@ -1,6 +1,6 @@
 # Quiz 8
 
-#### 1 Imaging Technique Inspiration
+### 1 Imaging Technique Inspiration
 - __Geometric Generative Art as Inspiration__
 I am inspired by part of Steve's Makerspace generative artworks, which main composed of geometric shapes and are rich in texture. The abstract compositions provide strong visual contrast through the interplay of shapes and textures. The technique makes the works visually striking, which aligns with my project goals.
 - __Incorporating vairety of visual expressions in p5.js__
@@ -11,7 +11,7 @@ I’d like to incorporate the use of **buffer canvas** to enhance visual express
 ![Example image](readmeImages/Image%20Examples-02.jpg)
 ![Example image](readmeImages/Image%20Examples-03.jpg)
 
-#### 2 Coding Technique Exploration
+### 2 Coding Technique Exploration
 - __Related coding technique__
 The main coding technique for the inspiration is the **buffer canvas**. It is an off-screen graphics layer where you can draw independently from the main canvas so this technique can assist in implementing textured geometric art by independent layering and manipulation of shapes. The method createGraphics() is used to create a buffer canvas. 
 - __Enhancing Visual expressions with Buffer Canvas__
